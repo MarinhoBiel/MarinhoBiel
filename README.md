@@ -25,6 +25,10 @@ com foco em automação e padronização de processos.
 
 ### 🛠️ Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,powershell,git,github,docker,linux,selenium,anaconda" />
+</div>
+
 **Linguagens:** Python (Pandas, Selenium, openpyxl) · SQL (PostgreSQL) · PowerShell
 
 **Dados & BI:** ETL · Power BI · Excel Avançado · processamento e validação de arquivos (CSV, XLSX, ZIP)
@@ -32,6 +36,15 @@ com foco em automação e padronização de processos.
 **Automação:** orquestração e monitoramento de rotinas agendadas · web scraping · consumo de APIs
 
 **Ferramentas:** Git · Docker · Linux · Anaconda
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarinhoBiel&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoBiel&layout=compact&theme=default&hide_border=true" />
+</div>
 
 ---
 
