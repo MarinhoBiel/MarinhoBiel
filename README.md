@@ -42,7 +42,7 @@ com foco em automação e padronização de processos.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-iota-40.vercel.app/api?username=MarinhoBiel&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-iota-40.vercel.app/api?username=MarinhoBiel&show_icons=true&theme=github_dark&hide_border=true&custom_title=Jos%C3%A9%20Gabriel" />
   <img height="165" src="https://github-readme-stats-eight-iota-40.vercel.app/api/top-langs/?username=MarinhoBiel&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
