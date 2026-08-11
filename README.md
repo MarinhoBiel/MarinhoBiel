@@ -42,8 +42,8 @@ com foco em automação e padronização de processos.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarinhoBiel&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoBiel&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-iota-40.vercel.app/api?username=MarinhoBiel&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-iota-40.vercel.app/api/top-langs/?username=MarinhoBiel&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ---
@@ -73,3 +73,5 @@ além de gerar um relatório completo em Excel.
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josegabriel.dev.br@gmail.com)
 
 *Disponível para modelo presencial, híbrido ou remoto.*
+
+---
